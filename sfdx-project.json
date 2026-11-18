@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "ECA Metadata",
+  "namespace": "",
+  "sfdcLoginUrl": "empathetic-bear-19jq4o-dev-ed.trailblaze.my.salesforce.com",
+  "sourceApiVersion": "67.0"
+}
